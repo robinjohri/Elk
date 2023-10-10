@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
-- 💻 I currently work as Senior Software Engineer with Duck Creek Technologies :wink: ;
+- 💻 I currently work as Senior Software Engineer with Duck Creek Technologies :wink: 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">Feel free to connect with me over LinkedIn as well : https://www.linkedin.com/in/robin-johri-825580234
 
